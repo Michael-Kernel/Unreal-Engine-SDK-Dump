@@ -3,7 +3,11 @@
 
 # Games
 
-- Coming Soon
+- Borderlands 3
+- Dragon Ball Z Kakarot
+- Dragon Ball Z Sparking Zero
+- Hogwarts Legacy
+- Tiny Tina's Wonderland
 
 # Credits
 - Dumper 7 Dev's
