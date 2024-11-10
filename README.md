@@ -4,6 +4,8 @@
 # Games
 
 - Borderlands 3
+- Destroy All Humans
+- Destroy All Humans 2 - Reprobed
 - Dragon Ball Z Kakarot
 - Dragon Ball Z Sparking Zero
 - Hogwarts Legacy
