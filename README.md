@@ -13,7 +13,7 @@
 # Credits
 - Dumper 7 Dev's
 - Cheatgear Dev's
-- Nick for being an awesome person.
+- TempAccountNull
 
 # Image
 ![3645785-2138833352](https://github.com/user-attachments/assets/9efcab84-b4f6-4022-a92c-160e00d28cb3)
