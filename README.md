@@ -9,8 +9,8 @@
 - Dragon Ball Z Kakarot
 - Dragon Ball Z Sparking Zero
 - Hogwarts Legacy
+- Palworld
 - Tiny Tina's Wonderland
-- More to come
 
 # Credits
 - Dumper 7 Dev's
