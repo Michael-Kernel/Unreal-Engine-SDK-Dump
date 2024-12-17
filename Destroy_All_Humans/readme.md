@@ -1,1 +1,0 @@
-Destroy all humans SDK dump.
