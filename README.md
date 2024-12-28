@@ -6,12 +6,13 @@
 - Borderlands 3
 - Destroy All Humans
 - Destroy All Humans 2 - Reprobed
-- Dragon Ball Z Kakarot
 - Dragon Ball Z Sparking Zero
 - Hogwarts Legacy
 - Palworld
 - Tiny Tina's Wonderland
-- More Coming Soon
+
+- Coming Soon?
+- Few surprises
 
 # Credits
 - Dumper 7 Dev's
