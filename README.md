@@ -11,6 +11,7 @@
 - Hogwarts Legacy
 - Palworld
 - Tiny Tina's Wonderland
+- More Coming Soon
 
 # Credits
 - Dumper 7 Dev's
