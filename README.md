@@ -11,8 +11,8 @@
 - Palworld
 - Tiny Tina's Wonderland
 
-- Coming Soon?
-- Few surprises
+# Coming Soon?
+- A few more games
 
 # Credits
 - Dumper 7 Dev's
