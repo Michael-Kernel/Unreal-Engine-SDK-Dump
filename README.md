@@ -9,7 +9,6 @@
 - Dragon Ball Z Sparking Zero
 - Hogwarts Legacy
 - Palworld
-- Tiny Tina's Wonderland
 
 # Coming Soon?
 - A few more games
