@@ -8,6 +8,7 @@
 - Destroy All Humans 2 - Reprobed
 - Dragon Ball Z Sparking Zero
 - Hogwarts Legacy
+- Kingdom Hearts III
 - Palworld
 - Tiny Tinas Wonderland
 
