@@ -10,10 +10,8 @@
 - Hogwarts Legacy
 - Kingdom Hearts III
 - Palworld
+- South Park Snow Day
 - Tiny Tinas Wonderland
-
-# Coming Soon?
-- A few more games
 
 # Credits
 - Dumper 7 Dev's
