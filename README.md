@@ -8,6 +8,7 @@
 - Destroy All Humans 2 - Reprobed
 - Dragon Ball Z Sparking Zero
 - Final Fantasy VII Rebirth
+- Ghostwire Tokyo
 - Hogwarts Legacy
 - Kingdom Hearts III
 - Lord Of The Rings Return To Moria
