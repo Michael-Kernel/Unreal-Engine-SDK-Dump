@@ -10,6 +10,7 @@
 - Final Fantasy VII Rebirth
 - Hogwarts Legacy
 - Kingdom Hearts III
+- Lord Of The Rings Return To Moria
 - Palworld
 - South Park Snow Day
 - Tiny Tinas Wonderland
