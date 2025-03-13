@@ -20,7 +20,7 @@
 - Dumper 7 Dev's
 - Cheatgear Dev's
 - Fischsalat
-- fightingsquirrels69
+- Fightingsquirrels69
 
 # Image
 ![3645785-2138833352](https://github.com/user-attachments/assets/9efcab84-b4f6-4022-a92c-160e00d28cb3)
