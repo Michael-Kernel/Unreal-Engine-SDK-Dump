@@ -4,6 +4,7 @@
 # Games
 
 - Borderlands 3
+- Brickadia
 - Destroy All Humans
 - Destroy All Humans 2 - Reprobed
 - Dragon Ball Z Sparking Zero
