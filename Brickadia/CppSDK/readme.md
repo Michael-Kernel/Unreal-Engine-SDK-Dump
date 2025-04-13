@@ -1,1 +1,1 @@
-CPPSDK.
+CppSDK
