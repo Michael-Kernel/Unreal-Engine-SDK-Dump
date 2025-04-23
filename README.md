@@ -16,6 +16,7 @@
 - Palworld
 - South Park Snow Day
 - Tiny Tinas Wonderland
+- TES Oblivion Remastered
 
 # Credits
 - Dumper 7 Dev's
